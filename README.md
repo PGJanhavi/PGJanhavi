@@ -55,51 +55,6 @@
 </a>
 
 ---
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PGJanhavi&theme=radical&no-frame=true&margin-w=10"/>
-</p>
 
 
 
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?username=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
-</p>
-
----
-
-## ✨ Featured Projects
-- 🧠 **Psychiatric Condition Monitoring System** – NLP & Deep Learning  
-- 🖊️ **Handwriting Recognition using CRNN**  
-- 🛒 **E-Commerce Stock Maintenance System**  
-- 🧩 **Rubik’s Cube Solver (Java)**  
-
----
-
-## 💡 Quote I Believe In
-<p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
-</p>
-
----
-
-<p align="center">
-  ⭐ From <b>YOUR_USERNAME</b>
-</p>
