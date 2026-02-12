@@ -1,6 +1,6 @@
 <!-- HEADER GIF -->
 <p align="center">
-  <img src="Animation.gif" width="400"/>
+  <img src="" width="400"/>
 </p>
 
 <h1 align="center">Hello , I'm Janhavi P G !</h1>
