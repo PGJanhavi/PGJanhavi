@@ -1,7 +1,3 @@
-<!-- HEADER GIF -->
-<p align="center">
-  <img src="" width="400"/>
-</p>
 
 <h1 align="center">Hello , I'm Janhavi P G !</h1>
 <h3 align="center">Computer Science Student | Tech Enthusiast</h3>
