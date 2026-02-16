@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="Always.gif" width="700"/>
+</p>
 <h1 align="center">Hello , I'm Janhavi P G !</h1>
 <h3 align="center">Computer Science Student | Tech Enthusiast</h3>
 
