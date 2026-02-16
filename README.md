@@ -52,7 +52,17 @@
        alt="powerbi" width="40" height="40"/>
 </a>
 
+
 ---
 
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PGJanhavi&theme=react-dark"/>
+</p>
 
+---
+
+<p align="center">
+  ⭐ From <b>PGJanhavi</b>
+</p>
 
