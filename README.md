@@ -54,6 +54,11 @@
 
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PGJanhavi&hide_border=true&background=F5E6E1&ring=8B1D2C&fire=8B1D2C&currStreakLabel=8B1D2C&sideLabels=8B1D2C&dates=6A1B2A" />
+</p>
 
 ## 📈 Contribution Graph
 <p align="center">
